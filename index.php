@@ -68,6 +68,12 @@ if (!empty($_SESSION['activa'])) {
             <div class="col" style="background-color: rgb(189, 188, 187);">
                 <div class="row">
                     <h1>AUTENTIFICACIÓN Adrian Aguilar hernandez</h1>
+                    <h1>Capibara</h1>
+
+
+                    <h1>NC:21240050</h1>
+
+                    
                 </div>
                 <form style="padding: 15px;" method="POST">
                     <div>
